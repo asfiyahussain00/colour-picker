@@ -1,0 +1,19 @@
+body{
+    background-color:#960b6a;
+}
+
+.color{
+    width: 300px;
+    height: 300px;
+    margin-left: 345px;
+    margin-top: 250px;
+
+}
+
+.handing{
+    margin-left: 700px;
+    color: whitesmoke;
+    margin-top: -300px;
+    font-size: 20px;
+    font-family: "Playwrite PE", cursive;
+}
